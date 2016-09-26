@@ -13,6 +13,9 @@
 
 service: annectobot-functions # NOTE: update this with your service name
 
+plugins:
+  - serverless-webpack
+
 provider:
   name: aws
   runtime: nodejs4.3
