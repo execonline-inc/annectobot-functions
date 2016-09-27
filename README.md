@@ -28,6 +28,10 @@
 - `npm install`
 - `npm test`
 
+To deploy, you will also need to install serverless.
+
+- `npm install serverless -g`
+
 # Deploying
 
 - Ensure you have AWS access/secret environment variables in your current shell (AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY) for a user that can create lambdas and gateways in AWS.
