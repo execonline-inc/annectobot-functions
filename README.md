@@ -7,11 +7,10 @@
 - bootstrap app -- DONE
 - test deploy with function + gateway -- DONE
 - convert to ES6 -- DONE
-- put the schedule somewhere
-  - hard code it in the javascript
+- put the schedule somewhere -- DONE
+- who is on this week, who is on next week, and previous week -- DONE
 - figure out if we can get the message out of quotes
 - styling
-- Who is on this week, who is on next week, and previous week
 - slack show everybody (broadcast)
 - figure out permissions for real (AWS user stuff)
 - token on the API call (on the gateway api)
