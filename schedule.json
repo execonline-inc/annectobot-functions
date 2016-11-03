@@ -1,25 +1,5 @@
 [
   {
-    "name": "Ilya",
-    "startDate": "9-25-16",
-    "endDate": "10-1-16"
-  },
-  {
-    "name": "Ed",
-    "startDate": "10-2-16",
-    "endDate": "10-8-16"
-  },
-  {
-    "name": "Joe",
-    "startDate": "10-9-16",
-    "endDate": "10-15-16"
-  },
-  {
-    "name": "Carol",
-    "startDate": "10-16-16",
-    "endDate": "10-22-16"
-  },
-  {
     "name": "Matt",
     "startDate": "10-23-16",
     "endDate": "10-29-16"
@@ -38,5 +18,45 @@
     "name": "Jeff",
     "startDate": "11-13-16",
     "endDate": "11-19-16"
+  },
+  {
+    "name": "Ilya",
+    "startDate": "11-20-16",
+    "endDate": "11-26-16"
+  },
+  {
+    "name": "Ed",
+    "startDate": "11-27-16",
+    "endDate": "12-3-16"
+  },
+  {
+    "name": "Joe",
+    "startDate": "12-4-16",
+    "endDate": "12-10-16"
+  },
+  {
+    "name": "Carol",
+    "startDate": "12-11-16",
+    "endDate": "12-17-16"
+  },
+  {
+    "name": "Matt",
+    "startDate": "12-18-16",
+    "endDate": "12-24-16"
+  },
+  {
+    "name": "Debbie",
+    "startDate": "12-25-16",
+    "endDate": "12-31-16"
+  },
+  {
+    "name": "John",
+    "startDate": "1-1-16",
+    "endDate": "1-7-16"
+  },
+  {
+    "name": "Jeff",
+    "startDate": "1-8-17",
+    "endDate": "1-14-17"
   }
 ]
