@@ -9,9 +9,9 @@
 - convert to ES6 -- DONE
 - put the schedule somewhere -- DONE
 - who is on this week, who is on next week, and previous week -- DONE
+- slack show everybody (broadcast) at the beginning of each week
 - figure out if we can get the message out of quotes
 - styling
-- slack show everybody (broadcast)
 - figure out permissions for real (AWS user stuff)
 - token on the API call (on the gateway api)
 - decide on a fancy place for the schedule
