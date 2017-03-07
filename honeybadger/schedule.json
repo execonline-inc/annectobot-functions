@@ -35,33 +35,28 @@
     "endDate": "4-15-17"
   },
   {
-    "name": "Carol",
+    "name": "Ryan",
     "startDate": "4-16-17",
     "endDate": "4-22-17"
   },
   {
-    "name": "Ryan",
+    "name": "Joe",
     "startDate": "4-23-17",
     "endDate": "4-29-17"
   },
   {
-    "name": "Joe",
+    "name": "Matt",
     "startDate": "4-30-17",
     "endDate": "5-6-17"
   },
   {
-    "name": "Matt",
+    "name": "John",
     "startDate": "5-7-17",
     "endDate": "5-13-17"
   },
   {
-    "name": "John",
+    "name": "Debbie",
     "startDate": "5-14-17",
     "endDate": "5-20-17"
-  },
-  {
-    "name": "Debbie",
-    "startDate": "5-21-17",
-    "endDate": "5-27-17"
   }
 ]
